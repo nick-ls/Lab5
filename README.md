@@ -1,6 +1,7 @@
 # Lab 5 - Starter
 
-https://nick-ls.github.io/Lab5/expose.html
-https://nick-ls.github.io/Lab5/explore.html
+[Expose](https://nick-ls.github.io/Lab5/expose.html)
 
-[https://github.com/nick-ls/introduction-to-github/](https://github.com/nick-ls/Lab5/)
+[Explore](https://nick-ls.github.io/Lab5/explore.html)
+
+[introduction-to-github](https://github.com/nick-ls/Lab5/)
